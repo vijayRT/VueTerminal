@@ -1,6 +1,6 @@
 # VueTerminal
 
-> Make your website look like a good ol' DOS terminal. Inspired by JQuery Terminal. Written without using any jQuery at all.
+Make your website look like a good ol' DOS terminal. Inspired by JQuery Terminal. Written without using any jQuery at all.
 
 ## Build Setup
 
